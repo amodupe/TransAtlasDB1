@@ -36,5 +36,5 @@ The TransAtlasDB toolkit is written in Perl and can be run on diverse hardware s
 <dt>lib</dt>
 <dd>contains required Perl Modules</dd>
 </dl>
-ghf
+
 Please click the menu items to navigate through this repository. If you have questions, comments and bug reports, please email me directly. Thank you very much for your help and support!
