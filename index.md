@@ -27,7 +27,7 @@ The TransAtlasDB toolkit is written in Perl and can be run on diverse hardware s
 
 > view or export reports based on user-defined queries
 
-#### [](#header-4)other folders
+**other folders**
 * schema	:	contains the TransAtlasDB relational database schema
 * example	:	contains sample files and templates
 * lib	:	contains required Perl Modules
