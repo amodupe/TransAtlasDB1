@@ -9,6 +9,8 @@ ul.never {
   border-radius:20px;
   border:1px solid #e0e0e0;
   text-align:center;
+  height: 20px;
+  line-height: 20px;
 }
 
 header ul.never a:active {
@@ -17,8 +19,6 @@ header ul.never a:active {
 
 header ul.never a strong {
   font-size:14px;
-  height: 14px;
-  line-height: 14px;
   display:block;
   color:#222;
 }
