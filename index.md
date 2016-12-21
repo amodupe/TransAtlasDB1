@@ -1,6 +1,6 @@
-# TransAtlasDB documentation
+## TransAtlasDB documentation
 
-## TransAtlasDB main package
+### TransAtlasDB main package
 
 The TransAtlasDB toolkit is written in Perl and can be run on diverse hardware systems where standard Perl modules and the Perl-DBD module are installed. The package consist of the following files:
 
