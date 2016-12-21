@@ -5,17 +5,17 @@ ul.never {
 ul.never {
   list-style:none;
   padding:0;
-  background: black;
+  background: #f4f4f4;
   border-radius:5px;
-  border:1px solid black;
+  border:1px solid #e0e0e0;
 }
 
 header ul.never a:active {
-  background-color:green;
+  background-color: #f0f0f0;
 }
 
 header ul.never a strong {
   font-size:14px;
   display:block;
-  color:pink;
+  color:#222;
 }
