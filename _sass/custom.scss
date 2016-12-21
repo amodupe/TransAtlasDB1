@@ -14,6 +14,12 @@ ul.never {
 
 header ul.never a:hover {
   background-color: #f0f0f0;
+  list-style:none;
+  padding:0;
+  border-radius:20px;
+  border:1px solid #e0e0e0;
+  text-align:center;
+  height: 25px;
 }
 
 header ul.never a strong {
