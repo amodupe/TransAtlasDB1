@@ -6,7 +6,7 @@ The TransAtlasDB toolkit is written in Perl and can be run on diverse hardware s
 
 * * *
 
-<dl>
+
 #### [](#header-4)INSTALL-tad.pL
 
 > install TransAtlasDB system
