@@ -13,7 +13,8 @@ ul.never {
 }
 
 header ul.never a:hover {
-  background-color: #f0f0f0;
+  color: #fff;
+  background-color: #000;
   list-style:none;
   padding:0;
   border-radius:20px;
@@ -22,8 +23,3 @@ header ul.never a:hover {
   height: 25px;
 }
 
-header ul.never a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
