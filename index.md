@@ -4,6 +4,17 @@
 
 The TransAtlasDB toolkit is written in Perl and can be run on diverse hardware systems where standard Perl modules and the Perl-DBD module are installed. The package consist of the following files:
 
+<dl>
+<dt>**INSTALL-tad.pL**</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
 -	**INSTALL-tad.pL**: install TransAtlasDB system
 
 -	**connect-tad.pL**: verify connection details or create connection details (used only when requested)
