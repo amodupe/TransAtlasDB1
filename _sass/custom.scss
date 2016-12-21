@@ -1,20 +1,20 @@
 ul.never {
-  margin:0 0 20px;
+  margin:0;
 }
 
 ul.never {
   list-style:none;
   height:40px;
   padding:0;
-  background: #4445ff;
+  background: black;
   border-radius:5px;
-  border:1px solid #cdcd56
+  border:1px solid black;
 }
 
 header ul.never a {
   line-height:1;
   font-size:11px;
-  color:#e4e;
+  color:red;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -22,11 +22,11 @@ header ul.never a {
 }
 
 header ul.never a:hover {
-  color:#g6g;
+  color:yellow;
 }
 
 header ul.never a:active {
-  background-color:#eeeeee;
+  background-color:green;
 }
 
 header ul.never li + li + li {
@@ -37,5 +37,5 @@ header ul.never li + li + li {
 header ul.never a strong {
   font-size:14px;
   display:block;
-  color:#444;
+  color:pink;
 }
