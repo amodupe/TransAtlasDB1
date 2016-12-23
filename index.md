@@ -37,12 +37,31 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```unix
+# Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+perl tad-export.pl -u abc -d ssfs fdfsfs
+```
+
 ```perl
 # Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
+perl tad-export.pl -u abc -d ssfs fdfsfs
+```
+
+```python
+# Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+perl tad-export.pl -u abc -d ssfs fdfsfs
 ```
 
 #### [](#header-4)Header 4
